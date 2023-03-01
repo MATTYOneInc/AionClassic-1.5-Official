@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<server_set>
+<game_server>
+<ip>127.0.0.1</ip>
+<port>7777</port>
+<countrycode>1</countrycode>
+</game_server>
+<mysql_server>
+<host>localhost</host>
+<database>asteria_aion</database>
+<username>root</username>
+<password>root</password>
+</mysql_server>
+</server_set>
+

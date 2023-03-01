@@ -1,0 +1,27 @@
+[12:11:42]Config Initializ!
+[12:11:42]DataProvider Initializ!
+[12:11:42]Setting and StaitcData Initializ!
+[12:11:43]localhost: Can't connect to MySQL server on 'localhost' (10061)
+[12:11:43]UdpSocket Initializ!
+[12:11:43]ServerSocket Initializ!
+[12:11:43]ScriptEngine Initializ!
+[12:11:45]Failed to regedit GameServer!
+[12:11:53]Lost the Connect with LoginServer!
+[12:27:1]Config Initializ!
+[12:27:1]DataProvider Initializ!
+[12:27:1]Setting and StaitcData Initializ!
+[12:27:2]localhost: Can't connect to MySQL server on 'localhost' (10061)
+[12:27:2]UdpSocket Initializ!
+[12:27:2]ServerSocket Initializ!
+[12:27:2]ScriptEngine Initializ!
+[12:27:4]Failed to regedit GameServer!
+[20:21:0]Config Initializ!
+[20:21:0]DataProvider Initializ!
+[20:21:0]Setting and StaitcData Initializ!
+[20:21:0]Initialize Mysql connection at localhost
+[20:21:0]MySql Initializ!
+[20:21:0]UdpSocket Initializ!
+[20:21:0]ServerSocket Initializ!
+[20:21:0]ScriptEngine Initializ!
+[20:21:2]Failed to regedit GameServer!
+[21:12:33]Config Initializ!

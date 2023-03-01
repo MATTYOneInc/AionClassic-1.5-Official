@@ -1,0 +1,722 @@
+<!-- 此BOSS文件由AionChs-卡萨琳娜制作-->
+<spawns>
+<!-- 开始BOSS -->
+<!-- 以下为埃尔特内BOSS -->
+<!-- 大族长山杜卡 -->
+  <spawn map="210020000" npcid="211040" pool="1" interval="7200">
+    <object x="2460" y="738.5" z="371" h="60"/>
+  </spawn>
+<!-- 部族长库尔卡 -->
+  <spawn map="210020000" npcid="211039" pool="1" interval="3600">
+    <object x="2277.491" y="583.9587" z="375" h="0"/>
+  </spawn>
+<!-- 部族长夏库 -->
+  <spawn map="210020000" npcid="211038" pool="1" interval="3600">
+    <object x="2423.96" y="968.3329" z="453.5378" h="64"/>
+  </spawn>
+<!-- 疯狂的沙尔泰蒙 -->
+  <spawn map="210020000" npcid="211712" pool="1" interval="3600">
+    <object x="2423.39" y="316.54" z="495.41" h="117"/>
+  </spawn>
+<!-- 石山贝海默斯 -->
+  <spawn map="210020000" npcid="211041" pool="1" interval="3600">
+    <object x="792.5521" y="653.5261" z="294" h="80"/>
+  </spawn>
+<!-- 血光火焰克拉泰尔 -->
+  <spawn map="210020000" npcid="211715" pool="1" interval="7200">
+    <object x="2114.156" y="1045.276" z="363.1151" h="100"/>
+  </spawn>
+<!-- 贪心的曼库 -->
+  <spawn map="210020000" npcid="210765" pool="1" interval="900">
+    <object x="776.703" y="2843.7134" z="263.96417" h="20"/>
+  </spawn>
+<!-- 暴君须库斯 -->
+  <spawn map="210020000" npcid="210782" pool="1" interval="900">
+    <object x="214" y="2063" z="207.375" h="68"/>
+  </spawn>
+<!-- 库孟咖 -->
+  <spawn map="210020000" npcid="213001" pool="1" interval="900">
+    <object x="812.9475" y="2122.4062" z="246.90802" h="52"/>
+  </spawn>
+<!-- 绝望的加尔拉提亚 -->
+  <spawn map="210020000" npcid="210815" pool="1" interval="900">
+    <object x="1018" y="2130" z="245.99815" h="50"/>
+  </spawn>
+<!-- 黄金喙贝雷芬 -->
+  <spawn map="210020000" npcid="210816" pool="1" interval="900">
+    <object x="1741.933" y="2828.356" z="356.5" h="72"/>
+  </spawn>
+<!-- 监督官卡尔加斯 -->
+  <spawn map="210020000" npcid="210860" pool="1" interval="900">
+    <object x="1269.0095" y="1679.3314" z="274.877" h="39"/>
+  </spawn>
+<!-- 电角德鲁尔 -->
+  <spawn map="210020000" npcid="211675" pool="1" interval="900">
+    <object x="1615.6586" y="2130.363" z="282" h="98"/>
+  </spawn>
+<!-- 大治疗师邱巴克 -->
+  <spawn map="210020000" npcid="211698" pool="1" interval="900">
+    <object x="1374.9258" y="2705.9617" z="306.375" h="52"/>
+  </spawn>
+<!-- 侦察队长坎土斯 -->
+  <spawn map="210020000" npcid="211699" pool="1" interval="900">
+    <object x="1224.1483" y="2725.2676" z="308.14603" h="119"/>
+  </spawn>
+<!-- 召唤师克拉齐亚 -->
+  <spawn map="210020000" npcid="211700" pool="1" interval="900">
+    <object x="1341.9508" y="2803.332" z="320.4977" h="80"/>
+  </spawn>
+<!-- 女王纽泰伦 -->
+  <spawn map="210020000" npcid="210929" pool="1" interval="900">
+    <object x="1678.9175" y="1427.2816" z="370.2051" h="98"/>
+  </spawn>
+<!-- 女王纽塔卡 -->
+  <spawn map="210020000" npcid="211653" pool="1" interval="900">
+    <object x="575.86774" y="154.78876" z="304.50827" h="6"/>
+  </spawn>
+<!-- 克拉提亚 -->
+  <spawn map="210020000" npcid="211805" pool="1" interval="900">
+    <object x="261.8543" y="279.75116" z="16.5" h="26"/>
+  </spawn>
+<!-- 冰冻心脏阿莫雷尔 -->
+  <spawn map="210020000" npcid="210954" pool="1" interval="900">
+    <object x="2633.3" y="2590.5103" z="372.625" h="72"/>
+  </spawn>
+<!-- 魔性李克纳 -->
+  <spawn map="210020000" npcid="210967" pool="1" interval="900">
+    <object x="1336.0824" y="351.32767" z="350.03775" h="3"/>
+  </spawn>
+<!-- 坏心眼图格鲁斯 -->
+  <spawn map="210020000" npcid="211674" pool="1" interval="900">
+    <object x="2557.8438" y="1208.1267" z="452.5" h="68"/>
+  </spawn>
+<!-- 摇动地轴的蒙巴 -->
+  <spawn map="210020000" npcid="211679" pool="1" interval="900">
+    <object x="2637.5215" y="1371.8634" z="411.9797" h="54"/>
+  </spawn>
+<!-- 头目克鲁凯尔 -->
+  <spawn map="210020000" npcid="211008" pool="1" interval="900">
+    <object x="2567.5063" y="1754.2834" z="456.46057" h="72"/>
+  </spawn>
+<!-- 族长马马库 -->
+  <spawn map="210020000" npcid="211714" pool="1" interval="900">
+    <object x="2112.1826" y="906.68207" z="422.10217" h="10"/>
+  </spawn>
+<!-- 凯丹特殊巡查队长 -->
+  <spawn map="210020000" npcid="211864" pool="1" interval="900">
+    <object x="2369.5843" y="407.48978" z="487.57855" h="91"/>
+  </spawn>
+<!-- 总监督官潘特罗斯 -->
+  <spawn map="210020000" npcid="211032" pool="1" interval="900">
+    <object x="2780.775" y="2651.4282" z="290.90244" h="57"/>
+  </spawn>
+<!-- 大祭司里佩尔 -->
+  <spawn map="210020000" npcid="211702" pool="1" interval="900">
+    <object x="2456.913" y="2545.971" z="275.09634" h="40"/>
+  </spawn>
+<!-- 指挥官杰诺恩 -->
+  <spawn map="210020000" npcid="211703" pool="1" interval="900">
+    <object x="1877.1709" y="2677.6406" z="280.70074" h="104"/>
+  </spawn>
+<!-- 精灵术士夏皮尔尔 -->
+  <spawn map="210020000" npcid="211704" pool="1" interval="900">
+    <object x="2737.9937" y="2713.837" z="288" h="75"/>
+  </spawn>
+<!-- 大法师韦伦 -->
+  <spawn map="210020000" npcid="211705" pool="1" interval="900">
+    <object x="2485.95" y="2246.6292" z="289.76462" h="11"/>
+  </spawn>
+<!-- 阴灵术士兹巴托 -->
+  <spawn map="210020000" npcid="211710" pool="1" interval="900">
+    <object x="2527.0488" y="348.704" z="493.625" h="11"/>
+  </spawn>
+<!-- 埋藏千年的蜈蚣 -->
+  <spawn map="210020000" npcid="211713" pool="1" interval="900">
+    <object x="2261.974" y="464.98468" z="420.78635" h="26"/>
+  </spawn>
+<!-- 侦察队长莱奇安 -->
+  <spawn map="210020000" npcid="211727" pool="1" interval="900">
+    <object x="2240.4194" y="2550.3738" z="272.9433" h="18"/>
+  </spawn>
+<!-- 混沌的德拉库斯 -->
+  <spawn map="210020000" npcid="211800" pool="1" interval="43000">
+    <object x="1421.2345" y="236.92229" z="348.0549" h="31"/>
+  </spawn>
+<!-- 古代石像古尔凯尔 -->
+  <spawn map="210020000" npcid="211769" pool="1" interval="900">
+    <object x="213.2322" y="394.98022" z="158.27705" h="117"/>
+  </spawn>
+<!-- 幻觉的塞尔裘里斯 -->
+  <spawn map="210020000" npcid="211750" pool="1" interval="900">
+    <object x="169.74336" y="144.54478" z="147.06287" h="118"/>
+  </spawn>
+<!-- 破烂翅膀尼克 -->
+  <spawn map="210020000" npcid="211745" pool="1" interval="900">
+    <object x="80.6361" y="242.37704" z="227.03825" h="8"/>
+  </spawn>
+<!-- 暴风鬃毛图伊博斯 -->
+  <spawn map="210020000" npcid="211753" pool="1" interval="900">
+    <object x="291.57935" y="143.16104" z="149.70583" h="3"/>
+  </spawn>
+<!-- 可怕的德奇塔 -->
+  <spawn map="210020000" npcid="211764" pool="1" interval="900">
+    <object x="345.61722" y="241.31432" z="209.01822" h="119"/>
+  </spawn>
+<!-- 女王梅迪亚克 -->
+  <spawn map="210020000" npcid="210870" pool="1" interval="900">
+    <object x="693.0" y="840.0" z="286.5625" h="60"/>
+  </spawn>
+<!-- 以下为埃尔特内BOSS -->
+<!-- 巴伦爷爷 -->
+<spawn map="210040000" npcid="212117" pool="1" interval="900">
+ <object x="2193.609" y="585.2194" z="258.20398" h="10"/>
+ </spawn>
+<!-- 讥笑的夏泰 -->
+<spawn map="210040000" npcid="211074" pool="1" interval="900">
+ <object x="1785" y="1350" z="116" h="0"/>
+ </spawn>
+<!-- 怪力的力诺盖尔 -->
+<spawn map="210040000" npcid="212124" pool="1" interval="900">
+ <object x="1423.655" y="1727.715" z="124.12" h="0"/>
+ </spawn>
+<!-- 埋藏的千年人参 -->
+<spawn map="210040000" npcid="211928" pool="1" interval="900">
+ <object x="1392.218" y="1600.903" z="122" h="0"/>
+ </spawn>
+<!-- 幸运的德鲁 -->
+<spawn map="210040000" npcid="211132" pool="1" interval="900">
+ <object x="629" y="1245" z="131" h="0"/>
+ </spawn>
+<!-- 普罗埃尔幼崽 -->
+<spawn map="210040000" npcid="212119" pool="1" interval="900">
+ <object x="1715" y="570" z="128" h="0"/>
+ </spawn>
+<!-- 灰皮肤普鲁尔 -->
+<spawn map="210040000" npcid="212127" pool="1" interval="900">
+ <object x="864.3876" y="1566.576" z="116.3345" h="0"/>
+ </spawn>
+<!-- 大翅膀科尔比 -->
+<spawn map="210040000" npcid="212118" pool="1" interval="900">
+ <object x="1239.283" y="973.9503" z="140" h="0"/>
+ </spawn>
+<!-- 守财奴伊斯克洛 -->
+<spawn map="210040000" npcid="212126" pool="1" interval="900">
+ <object x="820.26" y="2093.74" z="114.64" h="0"/>
+ </spawn>
+<!-- 金甲拉克内 -->
+<spawn map="210040000" npcid="212128" pool="1" interval="900">
+ <object x="692.5042" y="1373.702" z="115" h="0"/>
+ </spawn>
+<!-- 闪耀的拉普尔 -->
+<spawn map="210040000" npcid="212121" pool="1" interval="900">
+ <object x="1049.8" y="408.07" z="105.02" h="0"/>
+ </spawn>
+<!-- 大毒针梅利塔 -->
+<spawn map="210040000" npcid="212122" pool="1" interval="900">
+ <object x="1043.037" y="1047.671" z="136" h="0"/>
+ </spawn>
+<!-- 单身戴皮 -->
+<spawn map="210040000" npcid="212125" pool="1" interval="600">
+ <object x="609.388" y="1665.143" z="112" h="0"/>
+ </spawn>
+<!-- 铁匠谭图卡 -->
+<spawn map="210040000" npcid="212233" pool="1" interval="1800">
+ <object x="2514.87" y="1682.09" z="136" h="0"/>
+ </spawn>
+<!-- 族长钱塔尔 -->
+<spawn map="210040000" npcid="212227" pool="1" interval="1800">
+ <object x="2656" y="1597" z="157" h="0"/>
+ </spawn>
+<!-- 影子鲁提斯 -->
+<spawn map="210040000" npcid="212123" pool="1" interval="900">
+ <object x="618.1973" y="997.0273" z="131" h="0"/>
+ </spawn>
+<!-- 笨重的迪胥尔拉 -->
+<spawn map="210040000" npcid="212133" pool="1" interval="3600">
+ <object x="1209.333" y="2573.928" z="142" h="0"/>
+ </spawn>
+<!-- 水手长雷姆 -->
+<spawn map="210040000" npcid="212132" pool="1" interval="900">
+ <object x="492" y="2979" z="125" h="0"/>
+ </spawn>
+<!-- 不幸的弗洛泰 -->
+<spawn map="210040000" npcid="212146" pool="1" interval="1800">
+ <object x="402.9918" y="2634.089" z="148" h="0"/>
+ </spawn>
+<!-- 部族长昆帕帕 -->
+<spawn map="210040000" npcid="212247" pool="1" interval="3600">
+ <object x="2766.868" y="1227.544" z="317" h="0"/>
+ </spawn>
+<!-- 红色熔岩雷奇 -->
+<spawn map="210040000" npcid="212268" pool="1" interval="900">
+ <object x="2530" y="2096" z="154" h="0"/>
+ </spawn>
+<!-- 实验长艾琳 -->
+<spawn map="210040000" npcid="214101" pool="1" interval="900">
+ <object x="284.334" y="742.4213" z="130" h="0"/>
+ </spawn>
+<!-- 卫兵戴德伦 -->
+<spawn map="210040000" npcid="211088" pool="1" interval="1800">
+ <object x="1592.723" y="1879.848" z="135" h="0"/>
+ </spawn>
+<!-- 精灵王安格洛 -->
+<spawn map="210040000" npcid="211908" pool="1" interval="1800">
+ <object x="263.644" y="774.347" z="135" h="0"/>
+ </spawn>
+<!-- 透明的水汽 -->
+<spawn map="210040000" npcid="211990" pool="1" interval="900">
+ <object x="407.5946" y="2434.502" z="130" h="0"/>
+ </spawn>
+<!-- 管家努德兰 -->
+<spawn map="210040000" npcid="212130" pool="1" interval="900">
+ <object x="682.2364" y="2118.781" z="120" h="0"/>
+ </spawn>
+<!-- 灵魂收集者拉盖诺恩 -->
+<spawn map="210040000" npcid="212145" pool="1" interval="900">
+ <object x="1646" y="2256" z="162" h="0"/>
+ </spawn>
+<!-- 痛苦的盖休巴尔特 -->
+<spawn map="210040000" npcid="212346" pool="1" interval="900">
+ <object x="410.7018" y="2053.448" z="118" h="0"/>
+ </spawn>
+<!-- 埃奎塔图斯大战士 -->
+<spawn map="210040000" npcid="212134" pool="1" interval="900">
+ <object x="192" y="2704" z="117" h="0"/>
+ </spawn>
+<!-- 监视指挥官阿修棠 -->
+<spawn map="210040000" npcid="212266" pool="1" interval="1800">
+ <object x="2216.498" y="2317.949" z="134" h="0"/>
+ </spawn>
+<!-- 军医官米哈希 -->
+<spawn map="210040000" npcid="212267" pool="1" interval="1800">
+ <object x="2840.841" y="1763.81" z="177" h="0"/>
+ </spawn>
+<!-- 邪恶的莫拉库斯 -->
+<spawn map="210040000" npcid="212269" pool="1" interval="900">
+ <object x="2596" y="2075" z="150" h="0"/>
+ </spawn>
+<!-- 战斗队长祖雷亚斯 -->
+<spawn map="210040000" npcid="212279" pool="1" interval="1800">
+ <object x="3015.456" y="2128.802" z="168" h="0"/>
+ </spawn>
+<!-- 愤怒的梅德乌斯 -->
+<spawn map="210040000" npcid="211265" pool="1" interval="3600">
+ <object x="210.0789" y="2509.714" z="120" h="0"/>
+ </spawn>
+<!-- 大法师长叙弗哈兹 -->
+<spawn map="210040000" npcid="212278" pool="1" interval="1800">
+ <object x="2460.653" y="2840.863" z="162" h="0"/>
+ </spawn>
+<!-- 第三守护者宾盖布欧 -->
+<spawn map="210040000" npcid="212281" pool="1" interval="1800">
+ <object x="2855.477" y="2503.974" z="149" h="0"/>
+ </spawn>
+<!-- 第二守护者杰休奇 -->
+<spawn map="210040000" npcid="212282" pool="1" interval="3600">
+ <object x="2793.846" y="2596.469" z="163" h="0"/>
+ </spawn>
+<!-- 第一守护者扎皮埃尔 -->
+<spawn map="210040000" npcid="212283" pool="1" interval="7200">
+ <object x="2921.103" y="2567.749" z="186" h="0"/>
+ </spawn>
+<!-- 暗黑法师沃拉恩 -->
+<spawn map="210040000" npcid="212315" pool="1" interval="3600">
+ <object x="1058.658" y="2794.824" z="212" h="0"/>
+ </spawn>
+<!-- 暗黑战士哈里安 -->
+<spawn map="210040000" npcid="212316" pool="1" interval="3600">
+ <object x="1020.101" y="2881.218" z="184" h="0"/>
+ </spawn>
+<!-- 暗黑祭司艾克赛迪尔 -->
+<spawn map="210040000" npcid="212317" pool="1" interval="3600">
+ <object x="958.054" y="2803.141" z="160" h="0"/>
+ </spawn>
+<!-- 捕食者卡库那 -->
+<spawn map="210040000" npcid="211897" pool="1" interval="900">
+ <object x="804.6" y="1042.42" z="126" h="0"/>
+ </spawn>
+<!-- 恐怖的塔昆 -->
+<spawn map="210040000" npcid="211900" pool="1" interval="900">
+ <object x="690.3461" y="528.3654" z="118" h="0"/>
+ </spawn>
+<!-- 梅德乌斯的阿凯伦 -->
+<spawn map="210040000" npcid="212008" pool="1" interval="3600">
+ <object x="179.87" y="2700.18" z="143.25" h="0"/>
+ </spawn>
+<!-- 侦察队长德哈比 -->
+<spawn map="210040000" npcid="212311" pool="1" interval="3600">
+ <object x="2445" y="2530" z="145" h="0"/>
+ </spawn>
+<!-- 大祭司亚特里 -->
+<spawn map="210040000" npcid="212308" pool="1" interval="3600">
+ <object x="2109" y="2409" z="129" h="0"/>
+ </spawn>
+<!-- 练的布兰雅卡 -->
+<spawn map="210040000" npcid="212309" pool="1" interval="3600">
+ <object x="2301" y="2432" z="119" h="0"/>
+ </spawn>
+<!-- 大法师布拉休娜 -->
+<spawn map="210040000" npcid="212310" pool="1" interval="3600">
+ <object x="2309" y="2670" z="138" h="0"/>
+ </spawn>
+<!-- 副军团长哈努曼 -->
+<spawn map="210040000" npcid="212306" pool="1" interval="7200">
+ <object x="1933.251" y="2612.447" z="142" h="0"/>
+ </spawn>
+<!-- 指挥官吉提姆卡 -->
+<spawn map="210040000" npcid="212307" pool="1" interval="3600">
+ <object x="1983" y="2639" z="138" h="0"/>
+ </spawn>
+<!-- 埃奎塔图斯大战士 -->
+<spawn map="210040000" npcid="212324" pool="1" interval="900">
+ <object x="192.0419" y="2704.876" z="117" h="0"/>
+ </spawn>
+<!-- 以下为莫尔海姆BOSS -->
+<!-- 部族长努雅卡 -->	
+ <spawn map="220020000" npcid="212872" pool="1" interval="3600">
+ <object x="2419.131" y="538.0596" z="342" h="0" />
+ </spawn>
+<!-- 族长哈帕努努 -->	
+ <spawn map="220020000" npcid="212871" pool="1" interval="900">
+ <object x="2303.388" y="382.4907" z="229" h="0" />
+ </spawn>
+<!-- 族长齐瓦努努 -->
+ <spawn map="220020000" npcid="211461" pool="1" interval="900">
+ <object x="1346.346" y="393.9726" z="530" h="0" />
+ </spawn>
+<!-- 部族长穆哈卡卡 -->
+ <spawn map="220020000" npcid="212873" pool="1" interval="3600">
+ <object x="2632" y="343" z="224" h="0" />
+ </spawn>
+<!-- 大族长暴风的卡萨卡 -->
+ <spawn map="220020000" npcid="212874" pool="1" interval="7200">
+ <object x="2931.0466" y="882.7807" z="369.91086" h="91" />
+ </spawn>
+<!-- 残酷鬃毛雷斯汀 -->
+ <spawn map="220020000" npcid="212875" pool="1" interval="7200">
+ <object x="2576" y="235" z="216.01953" h="39" />
+ </spawn>
+<!-- 大治疗师哈米娜 -->
+ <spawn map="220020000" npcid="211613" pool="1" interval="900">
+ <object x="2505" y="516.9999" z="200.9748" h="10" />
+ </spawn>
+<!-- 大祭司长马洛帕帕 -->
+ <spawn map="220020000" npcid="211614" pool="1" interval="900">
+ <object x="2643" y="544" z="195.8091" h="58" />
+ </spawn>
+<!-- 总监视官希尔密丹 -->
+ <spawn map="220020000" npcid="212859" pool="1" interval="900">
+ <object x="2984.45" y="2707.646" z="221" h="97" />
+ </spawn>
+<!-- 厨师长基弗巴乌姆 -->
+ <spawn map="220020000" npcid="212856" pool="1" interval="900">
+ <object x="2652" y="2938" z="147.36143" h="97" />
+ </spawn>
+<!-- 建筑家伊凯阿迪 -->
+ <spawn map="220020000" npcid="212858" pool="1" interval="900">
+ <object x="2854" y="2965" z="176.77707" h="97" />
+ </spawn>
+<!-- 普雷尔觉醒体 -->
+ <spawn map="220020000" npcid="212860" pool="1" interval="900">
+ <object x="2646.7715" y="2498.0803" z="144.18858" h="31" />
+ </spawn>
+<!-- 死亡之眼马卡玛 -->
+ <spawn map="220020000" npcid="212869" pool="1" interval="900">
+ <object x="2651" y="609" z="265.75" h="31" />
+ </spawn>
+<!-- 钩子赫姆纳顿 -->
+ <spawn map="220020000" npcid="212868" pool="1" interval="900">
+ <object x="2546" y="638" z="235.16566" h="96" />
+ </spawn>
+<!-- 女王金特 -->
+ <spawn map="220020000" npcid="212847" pool="1" interval="900">
+ <object x="2462.2861" y="2968.0684" z="114.375" h="72" />
+ </spawn>
+<!-- 希尔密丹的提波里德 -->
+ <spawn map="220020000" npcid="212857" pool="1" interval="900">
+ <object x="2696.0" y="2799.0" z="133.375" h="113" />
+ </spawn>
+<!-- 被遗弃的克里克 -->
+ <spawn map="220020000" npcid="212666" pool="1" interval="900">
+ <object x="2358" y="1081" z="137.3125" h="113" />
+ </spawn>
+<!-- 帝王康肖德 -->
+ <spawn map="220020000" npcid="212648" pool="1" interval="3600">
+ <object x="1309" y="1334" z="242.5625" h="107" />
+ </spawn>
+<!-- 无赖昆内纳尔 -->
+ <spawn map="220020000" npcid="212664" pool="1" interval="900">
+ <object x="2645" y="2285" z="100" h="107" />
+ </spawn>
+<!-- 被放逐的帕尔希尔 -->
+ <spawn map="220020000" npcid="212665" pool="1" interval="900">
+ <object x="2655" y="1386" z="110" h="15" />
+ </spawn>
+<!-- 头目哈尔皮亚 -->
+ <spawn map="220020000" npcid="212663" pool="1" interval="900">
+ <object x="2778" y="1980" z="113.75" h="75" />
+ </spawn>
+<!-- 吞食露珠的格力玛 -->
+ <spawn map="220020000" npcid="212832" pool="1" interval="900">
+ <object x="1578" y="1339" z="143.7401" h="22" />
+ </spawn>
+<!-- 孤独的多姆博 -->
+ <spawn map="220020000" npcid="212662" pool="1" interval="900">
+ <object x="1880" y="2193" z="246.5625" h="0" />
+ </spawn>
+<!-- 石拳撒皮罗 -->
+ <spawn map="220020000" npcid="212831" pool="1" interval="900">
+ <object x="1771" y="1197" z="92" h="0" />
+ </spawn>
+<!-- 监视者乌里卡 -->
+ <spawn map="220020000" npcid="212830" pool="1" interval="900">
+ <object x="1770" y="1298" z="115" h="0" />
+ </spawn>
+<!-- 刺透灵魂的哈赞 -->
+ <spawn map="220020000" npcid="212829" pool="1" interval="900">
+ <object x="1559" y="1340" z="21.064095" h="0" />
+ </spawn>
+<!-- 大门牙雷胡尔 -->
+ <spawn map="220020000" npcid="212828" pool="1" interval="900">
+ <object x="1619" y="1209" z="173" h="90" />
+ </spawn>
+<!-- 吞食精气的伊莱娜 -->
+ <spawn map="220020000" npcid="212827" pool="1" interval="900">
+ <object x="1580" y="1250" z="173" h="90" />
+ </spawn>
+<!-- 守护石像拉科鲁姆 -->
+ <spawn map="220020000" npcid="212826" pool="1" interval="900">
+ <object x="1704" y="1122" z="200" h="90" />
+ </spawn>
+<!-- 阿尔卡尼斯的草席 -->
+ <spawn map="220020000" npcid="212825" pool="1" interval="900">
+ <object x="1712" y="1137" z="150" h="90" />
+ </spawn>
+<!-- 女王奥克塔努 -->
+ <spawn map="220020000" npcid="212655" pool="1" interval="900">
+ <object x="260.9172" y="1706.3644" z="355.89816" h="90" />
+ </spawn>
+<!-- 奥克塔努的第二 -->
+ <spawn map="220020000" npcid="212657" pool="1" interval="900">
+ <object x="90.289" y="1535.5" z="383.35" h="86" />
+ </spawn>
+<!-- 奥克塔努的第一 -->
+ <spawn map="220020000" npcid="212656" pool="1" interval="900">
+ <object x="243.05" y="1532.5" z="374.32" h="43" />
+ </spawn>
+<!-- 大治疗师娜塔玛 -->
+ <spawn map="220020000" npcid="212812" pool="1" interval="900">
+ <object x="960.61" y="320.6" z="505.875" h="110" />
+ </spawn>
+<!-- 老练的菲德里奥 -->
+ <spawn map="220020000" npcid="212650" pool="1" interval="900">
+ <object x="1336" y="908.2" z="331.2643" h="30" />
+ </spawn>
+<!-- 大王兹库克 -->
+ <spawn map="220020000" npcid="212644" pool="1" interval="3600">
+ <object x="917.13" y="2163.98" z="213.125" h="114" />
+ </spawn>
+<!-- 巨大的硫磺斯莱姆 -->
+ <spawn map="220020000" npcid="212660" pool="1" interval="900">
+ <object x="1633.7747" y="2036.7681" z="232.30376" h="27" />
+ </spawn>
+<!-- 色眼泪斯酋埃尔 -->
+ <spawn map="220020000" npcid="212647" pool="1" interval="900">
+ <object x="688.0695" y="1025.977" z="285" h="97" />
+ </spawn>
+<!-- 女王斯佩尔 -->
+ <spawn map="220020000" npcid="212646" pool="1" interval="900">
+ <object x="591.47" y="1368.28" z="268.73477" h="97" />
+ </spawn>
+<!-- 哭泣的维加里拉 -->
+ <spawn map="220020000" npcid="212645" pool="1" interval="900">
+ <object x="1397.98" y="1016.75" z="244.22852" h="88" />
+ </spawn>
+<!-- 队长斯巴库 -->
+ <spawn map="220020000" npcid="212643" pool="1" interval="900">
+ <object x="1165" y="1847" z="222.125" h="56" />
+ </spawn>
+<!-- 石英脑袋嘭嘭 -->
+ <spawn map="220020000" npcid="212642" pool="1" interval="900">
+ <object x="1010" y="2707073" z="222" h="44" />
+ </spawn>
+<!-- 头目哈莫克 -->
+ <spawn map="220020000" npcid="212641" pool="1" interval="900">
+ <object x="182" y="1684.5" z="473" h="28" />
+ </spawn>
+<!-- 以下为贝鲁斯兰BOSS -->
+<!-- 伶俐的马西奇 -->
+ <spawn map="220040000" npcid="213712" pool="1" interval="900">
+ <object x="1047" y="894" z="234" h="0" />
+ </spawn>
+<!-- 迷路的里格伊 -->
+ <spawn map="220040000" npcid="213707" pool="1" interval="900">
+ <object x="208" y="1367" z="270.4" h="0" />
+ </spawn>
+<!-- 吞食灵魂的吉里纳 -->
+ <spawn map="220040000" npcid="213710" pool="1" interval="900">
+ <object x="788" y="1072" z="220.5" h="0" />
+ </spawn>
+<!-- 神圣的阿拉希亚 -->
+ <spawn map="220040000" npcid="213713" pool="1" interval="900">
+ <object x="1076.983" y="481" z="295" h="50"/>
+ </spawn>
+<!-- 跳舞的十字镐安盖亚德 -->
+ <spawn map="220040000" npcid="213718" pool="1" interval="900">
+ <object x="1408" y="1097" z="145.5" h="0" />
+ </spawn>
+<!-- 失去记忆的罗伊德 -->
+ <spawn map="220040000" npcid="213725" pool="1" interval="900">
+ <object x="2066" y="257" z="382.5" h="0" />
+ </spawn>
+<!-- 总监督官顿迪斯 -->
+ <spawn map="220040000" npcid="213722" pool="1" interval="900">
+ <object x="1548" y="1570" z="333" h="0" />
+ </spawn>
+<!-- 伶俐的阿尔菲 -->
+ <spawn map="220040000" npcid="213735" pool="1" interval="900">
+ <object x="966" y="1748" z="231.5" h="0" />
+ </spawn>
+<!-- 头目皮斯纳 -->
+ <spawn map="220040000" npcid="213737" pool="1" interval="900">
+ <object x="218" y="1819" z="212.6" h="0" />
+ </spawn>
+<!-- 祭司长佩内兹 -->
+ <spawn map="220040000" npcid="231724" pool="1" interval="900">
+ <object x="2115" y="430" z="384.2" h="0" />
+ </spawn>
+<!-- 老卫兵达尔洛奇 -->
+ <spawn map="220040000" npcid="213736" pool="1" interval="900">
+ <object x="895" y="2124" z="259.3" h="0" />
+ </spawn>
+<!-- 冰脚巴扎 -->
+ <spawn map="220040000" npcid="213726" pool="1" interval="900">
+ <object x="1820" y="810" z="361.6" h="0" />
+ </spawn>
+<!-- 遭到驱逐的塞尼克斯 -->
+ <spawn map="220040000" npcid="213733" pool="1" interval="900">
+ <object x="2950" y="1251" z="495.5" h="0" />
+ </spawn>
+<!-- 无畏的多尼 -->
+ <spawn map="220040000" npcid="213748" pool="1" interval="900">
+ <object x="2395" y="1580" z="499.5" h="0" />
+ </spawn>
+<!-- 迷恋的贝里贝 -->
+ <spawn map="220040000" npcid="213740" pool="1" interval="900">
+ <object x="320" y="2379" z="215" h="0" />
+ </spawn>
+<!-- 阿尔奎米亚精锐大法师 -->
+ <spawn map="220040000" npcid="213760" pool="1" interval="900">
+ <object x="2307" y="2840" z="689.6" h="0" />
+ </spawn>
+<!-- 智慧的思奇伦 -->
+ <spawn map="220040000" npcid="213746" pool="1" interval="1800">
+ <object x="772" y="2681" z="127" h="0" />
+ </spawn>
+<!-- 舞女塞弗拉 -->
+ <spawn map="220040000" npcid="213745" pool="1" interval="3600">
+ <object x="539" y="2760" z="352" h="0" />
+ </spawn>
+<!-- 峡谷守护者阿赫德麦赫 -->
+ <spawn map="220040000" npcid="213732" pool="1" interval="900">
+ <object x="2615" y="1676" z="472.7" h="0" />
+ </spawn>
+<!-- 指挥官布赫克曼 -->
+ <spawn map="220040000" npcid="213765" pool="1" interval="3600">
+ <object x="1917" y="2699" z="616" h="0" />
+ </spawn>
+<!-- 暴风之翼德格尔 -->
+ <spawn map="220040000" npcid="213769" pool="1" interval="900">
+ <object x="1440" y="2005" z="612" h="0" />
+ </spawn>
+<!-- 安静的埃拉姆 -->
+ <spawn map="220040000" npcid="213744" pool="1" interval="3600">
+ <object x="635" y="2908" z="296.6" h="0" />
+ </spawn>
+<!-- 播种的库克西 -->
+ <spawn map="220040000" npcid="213743" pool="1" interval="900">
+ <object x="700" y="2770" z="323.6" h="0" />
+ </spawn>
+<!-- 阿尔奎米亚精锐战斗队长 -->
+ <spawn map="220040000" npcid="213759" pool="1" interval="900">
+ <object x="2498" y="2614" z="669.2" h="0" />
+ </spawn>
+<!-- 阿尔奎米亚奇袭队长 -->
+ <spawn map="220040000" npcid="213758" pool="1" interval="900">
+ <object x="2514" y="2655" z="669" h="0" />
+ </spawn>
+<!-- 守护神佩内奥 -->
+ <spawn map="220040000" npcid="213738" pool="1" interval="3600">
+ <object x="216" y="1601" z="213.2" h="0" />
+ </spawn>
+<!-- 族长赞塔拉 -->
+ <spawn map="220040000" npcid="213750" pool="1" interval="900">
+ <object x="2731" y="1962" z="598" h="0" />
+ </spawn>
+<!-- 族长扎尔奇埃 -->
+ <spawn map="220040000" npcid="213728" pool="1" interval="900">
+ <object x="2382" y="995" z="368.8" h="0" />
+ </spawn>
+<!-- 监视队精锐战斗队长 -->
+ <spawn map="220040000" npcid="213752" pool="1" interval="900">
+ <object x="2838" y="2643" z="676.3" h="0" />
+ </spawn>
+<!-- 族长图普 -->
+ <spawn map="220040000" npcid="213749" pool="1" interval="900">
+ <object x="2375" y="1738" z="545.5" h="0" />
+ </spawn>
+<!-- 传说中的马托斯 -->
+ <spawn map="220040000" npcid="213729" pool="1" interval="3600">
+ <object x="2598" y="354" z="287" h="53"/>
+ </spawn>
+<!-- 女王阿鲁齐纳 -->
+ <spawn map="220040000" npcid="213747" pool="1" interval="7200">
+ <object x="796.6738" y="2951.997" z="398" h="0" />
+ </spawn>
+<!-- 以下为深渊部分BOSS -->
+<!-- 女王纽提内 -->
+<spawn map="400010000" npcid="255155" pool="1" interval="3600">
+	<object x="2458.25" y="1470.7" z="2901.3" h="0"/>
+ </spawn>
+<!-- 舰长拉赫布利 -->
+<spawn map="400010000" npcid="256115" pool="1" interval="3600">
+	<object x="1632.88" y="1775.46" z="2883.44" h="0"/>
+ </spawn>
+<!-- 最初的碎片梅诺提奥斯 -->
+<spawn map="400010000" npcid="251001" pool="1" interval="7200">
+	<object x="1923.65" y="2021.414" z="2181" h="56"/>
+ </spawn>
+<!-- 红色泪水布尔凯伦 -->
+<spawn map="400010000" npcid="251017" pool="1" interval="1800">
+	<object x="2290.29" y="1987.32" z="2275.7" h="0"/>
+ </spawn>
+<!-- 阿修卡坦的心腹拉顿 -->
+<spawn map="400010000" npcid="255705" pool="1" interval="3600">
+	<object x="2145.64" y="2486.65" z="2891.33" h="0"/>
+ </spawn>
+<!-- 贪婪的安杜哈 -->
+<spawn map="400010000" npcid="256653" pool="1" interval="900">
+	<object x="620.1056" y="2080.9" z="2740" h="0"/>
+ </spawn>
+<!-- 死亡之翼里格拉特 -->
+<spawn map="400010000" npcid="254528" pool="1" interval="900">
+	<object x="3015" y="1099" z="2755" h="0"/>
+ </spawn>
+<!-- 锈剑鲍皮乌斯 -->
+<spawn map="400010000" npcid="254569" pool="1" interval="900">
+	<object x="2757" y="1436" z="2826" h="0"/>
+ </spawn>
+<!-- 阿斯特利亚的守护者泰尔希尔 -->
+<spawn map="400010000" npcid="256667" pool="1" interval="900">
+	<object x="483.7617" y="2801.203" z="2930" h="0"/>
+ </spawn>
+<!-- 彷徨的加赞 -->
+<spawn map="400010000" npcid="254549" pool="1" interval="900">
+	<object x="3325.11" y="739.25" z="2731.05" h="0"/>
+ </spawn>
+<!-- 苏醒了的勒哈布 -->
+<spawn map="400010000" npcid="254540" pool="1" interval="900">
+	<object x="2694" y="551" z="2938" h="0"/>
+ </spawn>
+<!-- BOSS结束 -->
+</spawns>
